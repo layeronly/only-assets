@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 386.08 401.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Dégradé_sans_nom_14-4);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Dégradé_sans_nom_14-3);
+      }
+
+      .cls-3 {
+        fill: url(#Dégradé_sans_nom_14-2);
+      }
+
+      .cls-4 {
+        fill: url(#Dégradé_sans_nom_14);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_14" data-name="Dégradé sans nom 14" x1="99.18" y1="468.03" x2="454.97" y2="112.23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d3dea"/>
+      <stop offset="1" stop-color="#6489ff"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_14-2" data-name="Dégradé sans nom 14" x1="12.43" y1="381.28" x2="368.23" y2="25.49" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-3" data-name="Dégradé sans nom 14" x1="12.46" y1="381.31" x2="368.26" y2="25.52" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-4" data-name="Dégradé sans nom 14" x1="-74.29" y1="294.56" x2="281.51" y2="-61.23" xlink:href="#Dégradé_sans_nom_14"/>
+  </defs>
+  <g id="Calque_1" data-name="Calque 1">
+    <g>
+      <polygon class="cls-4" points="386.08 241.49 226.16 401.4 226.16 280.69 386.07 120.77 386.08 241.49"/>
+      <polygon class="cls-3" points="140.81 365.99 0 365.99 0 280.63 226.16 280.63 140.81 365.99"/>
+      <polygon class="cls-2" points="245.27 35.41 386.08 35.41 386.08 120.77 159.93 120.77 245.27 35.41"/>
+      <polygon class="cls-1" points="0 159.92 159.92 0 159.93 120.71 0 280.63 0 159.92"/>
+    </g>
+  </g>
+</svg>
